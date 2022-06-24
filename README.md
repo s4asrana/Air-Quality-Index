@@ -11,14 +11,14 @@ To solve the task, I used various machine learning algorithms like linear, ridge
 DATA DESCRIPTION:
 Here is a brief description of the data extracted from web:
 
-T	Average Temperature (°C)
+T	  Average Temperature (°C)
 TM	Maximum temperature (°C)
 Tm	Minimum temperature (°C)
 SLP	Atmospheric pressure at sea level (hPa)
-H	Average relative humidity (%)
+H	  Average relative humidity (%)
 PP	Total rainfall and / or snowmelt (mm)
 VV	Average visibility (Km)
-V	Average wind speed (Km/h)
+V	  Average wind speed (Km/h)
 VM	Maximum sustained wind speed (Km/h)
 VG	Maximum speed of wind (Km/h)
 RA	Indicate if there was rain or drizzle (In the monthly average, total days it rained)
