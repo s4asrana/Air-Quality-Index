@@ -11,7 +11,8 @@ To solve the task, I used various machine learning algorithms like linear, ridge
 DATA DESCRIPTION:
 Here is a brief description of the data extracted from web:
 
-T	  Average Temperature (°C)                                                                                                                                TM	Maximum temperature (°C) 
+T	  Average Temperature (°C)                                                                                                                              
+TM	Maximum temperature (°C)                                                                                                                               
 Tm	Minimum temperature (°C)
 SLP	Atmospheric pressure at sea level (hPa)
 H	  Average relative humidity (%)
