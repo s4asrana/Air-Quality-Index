@@ -1,4 +1,4 @@
-# Air-Quality-Index Prediction 
+# Air-Quality-Index Prediction using algorithms like linear, ridge, lasso, decision tree,random forest and XGBoost 
 
 PROBLEM DESCRIPTION:
 The aim of this project is to predict the air-quality index(PM 2.5 VALUE) based on the weather data which has 14 feautures like average temp.,atmospheric pressure etc.
