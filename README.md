@@ -9,6 +9,7 @@ The data is scrapped from website(https://en.tutiempo.net) using BeautifulSoup l
 To solve the task, I used various machine learning algorithms like linear, ridge, lasso, decision tree,random forest and XGBoost and Random Forest regressor gave the best results.
 
 Outputs for different algorithms are stored in different .pkl files which can be used for further deployment of the project using services like heroku.
+
 DATA DESCRIPTION:
 Here is a brief description of the data extracted from web:
 
