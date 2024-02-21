@@ -6,7 +6,7 @@ The aim of this project is to predict the air-quality index(PM 2.5 VALUE) based 
 DATA COLLLECTION:
 The data is scrapped from website(https://en.tutiempo.net) using BeautifulSoup library. The data includes daily weather data from the year 2013 to 2018 for the city of bengaluru. Html_scripy.py file contains the code that retrieve the Html code from the website and Extract_combine.py scraps the data from the respective Html codes and combines them with the data stored in the AQI folder. AQI folder contains the target PM2.5 data in hourly format from the year 2013 to 2018. Plot_AQI converts the data stored in AQI in daily format so that it is compatible to combine with weather data. The final combined data is stored in Real_data folder.
 
-To solve the task, I used various machine learning algorithms like linear, ridge, lasso, decision tree,random forest and XGBoost and Random Forest regressor gave the best results.
+To solve the task, various machine learning algorithms like linear, ridge, lasso, decision tree,random forest are used, and XGBoost and Random Forest regressor gave the best results.
 
 Outputs for different algorithms are stored in different .pkl files which can be used for further deployment of the project using services like heroku.
 
